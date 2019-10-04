@@ -1,0 +1,3 @@
+Mars is red.
+
+Mars bars are tasty.
